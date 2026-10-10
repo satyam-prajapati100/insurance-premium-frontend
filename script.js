@@ -1,5 +1,5 @@
 // Update this URL if your FastAPI server uses a different host, port, or route.
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "https://insurance-premium-prediction-api-60vt.onrender.com/predict";
 
 const form = document.getElementById("prediction-form");
 const submitButton = document.getElementById("submit-btn");
